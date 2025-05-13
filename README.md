@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+## Name: Kanagavel A K
+## Reg no: 212223230096
 # AIM:
 To Write a C program that illustrates files copying and locking
 
